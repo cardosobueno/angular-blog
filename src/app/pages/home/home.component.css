@@ -1,0 +1,17 @@
+.articles{
+ 
+    display: flex;
+    justify-content: center;
+}
+.articles__main{
+    margin: 20px;
+}
+.articles__others{
+    margin: 20px;
+}
+
+header{
+    border: solid red;
+    display: flex;
+    justify-content: center;
+}
